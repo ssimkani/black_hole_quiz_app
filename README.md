@@ -6,7 +6,7 @@ This short quiz relates to critical concepts about Black Holes. It is designed t
 
 ## Sources Used
 
-[Black Hole Safety Brochure](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/<https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf>)
+[Black Hole Safety Brochure](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf)
 
 [10 Fun Facts About Black Holes](https://astro.umaine.edu/10-fun-facts-about-black-holes/)
 
