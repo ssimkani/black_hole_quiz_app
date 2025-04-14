@@ -1,0 +1,111 @@
+/* Set background image */
+
+[data-testid="stMain"] {
+    background-image: url('https://cdn.sci.news/images/enlarge5/image_6117_1e-Intermediate-Mass-Black-Hole.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* Style for the header */
+h1 {
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* Styling for quiz questions and answers */
+h3, p {
+    color: #fff;
+}
+
+.stRadio, .stButton {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.stRadio:hover, .stButton:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Button styling */
+.stButton > button {
+    background-color: #3a3a3a;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 12px 20px;
+}
+
+.stButton > button:hover {
+    background-color: #d9534f;
+    color: white;
+}
+
+/* Quiz result and explanations */
+.stExpander {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.stExpander:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Footer and other sections */
+footer {
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+.stMarkdown {
+    font-size: 1.1em;
+}
+
+/* Make main app background overlay transparent */
+.stApp {
+    background-color: rgba(0, 0, 0, 0); /* Fully transparent */
+}
+
+/* Remove background and borders from radio buttons */
+.stRadio > div {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Remove background and borders from buttons */
+.stButton > button {
+    background: none !important;
+    color: white !important;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* make containers more transparent */
+.stContainer, .stMarkdown, .stSubheader, .stText, .stRadio, .stButton {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+/* Hide the main menu and footer */
+#MainMenu, footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}

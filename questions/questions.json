@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What is the event horizon of a black hole?",
+    "choices": [
+      "A visible surface surrounding the black hole",
+      "The point where gravity is weakest",
+      "The boundary beyond which nothing can escape",
+      "The center of the black hole"
+    ],
+    "answer": "The boundary beyond which nothing can escape",
+    "explanation": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape.",
+    "source": {
+      "title": "NASA Science - Black Holes",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    }
+  },
+  {
+    "question": "Why can't we directly see black holes?",
+    "choices": [
+      "They are too small to detect",
+      "They emit too much light",
+      "They absorb all light, making them invisible",
+      "They are behind other celestial objects"
+    ],
+    "answer": "They absorb all light, making them invisible",
+    "explanation": "Black holes are invisible because their gravity is so strong that not even light can escape.",
+    "source": {
+      "title": "10 Fun Facts About Black Holes",
+      "url": "https://astro.umaine.edu/10-fun-facts-about-black-holes/"
+    }
+  },
+  {
+    "question": "What is spaghettification?",
+    "choices": [
+      "A process of black hole formation",
+      "Stretching of objects due to intense gravity near a black hole",
+      "A method of detecting black holes",
+      "The fusion of two black holes"
+    ],
+    "answer": "Stretching of objects due to intense gravity near a black hole",
+    "explanation": "Spaghettification refers to the stretching and thinning of objects into long shapes due to extreme tidal forces near a black hole.",
+    "source": {
+      "title": "Black Hole Safety Brochure",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf"
+    }
+  },
+  {
+    "question": "What is the name of the supermassive black hole at the center of our galaxy?",
+    "choices": [
+      "Earth",
+      "Sagittarius A*",
+      "Sun",
+      "Andromeda B"
+    ],
+    "answer": "Sagittarius A*",
+    "explanation": "Sagittarius A* is the supermassive black hole located at the center of the Milky Way galaxy.",
+    "source": {
+      "title": "NASA Science - Black Holes",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    }
+  },
+  {
+    "question": "What is an accretion disk?",
+    "choices": [
+      "A type of black hole",
+      "A ring of gas and dust spiraling into a black hole",
+      "The event horizon of a black hole",
+      "A measurement of a black hole's mass"
+    ],
+    "answer": "A ring of gas and dust spiraling into a black hole",
+    "explanation": "An accretion disk is a structure formed by diffused material in orbital motion around a massive central body, such as a black hole.",
+    "source": {
+      "title": "Black Hole Safety Brochure",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf"
+    }
+  },
+  {
+    "question": "What are stellar-mass black holes?",
+    "choices": [
+      "Black holes formed from the merger of galaxies",
+      "Black holes with masses millions of times that of the Sun",
+      "Black holes formed from the collapse of massive stars",
+      "Hypothetical black holes from the early universe"
+    ],
+    "answer": "Black holes formed from the collapse of massive stars",
+    "explanation": "Stellar-mass black holes are formed when massive stars exhaust their nuclear fuel and collapse under their own gravity.",
+    "source": {
+      "title": "NASA Science - Black Holes",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    }
+  },
+  {
+    "question": "Can black holes merge with each other?",
+    "choices": [
+      "No, they repel each other",
+      "Yes, forming a larger black hole",
+      "Only under specific conditions",
+      "They explode upon impact"
+    ],
+    "answer": "Yes, forming a larger black hole",
+    "explanation": "Black holes can merge, resulting in a single, more massive black hole.",
+    "source": {
+      "title": "Black Hole Safety Brochure",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf"
+    }
+  },
+  {
+    "question": "What is the closest known black hole to Earth?",
+    "choices": [
+      "Andromeda B",
+      "Sagittarius A*",
+      "1A 0620-00",
+      "Pluto"
+    ],
+    "answer": "1A 0620-00",
+    "explanation": "1A 0620-00 is the closest known black hole to Earth, located about 3,000 light-years away.",
+    "source": {
+      "title": "Black Hole Safety Brochure",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf"
+    }
+  },
+  {
+    "question": "What would happen if the Sun were replaced by a black hole of the same mass?",
+    "choices": [
+      "Earth would be pulled into the black hole",
+      "All planets would be ejected from the solar system",
+      "Planetary orbits would remain unchanged",
+      "The solar system would collapse"
+    ],
+    "answer": "Planetary orbits would remain unchanged",
+    "explanation": "If the Sun were replaced by a black hole of equal mass, the planets would continue to orbit as before, though without sunlight.",
+    "source": {
+      "title": "Black Hole Safety Brochure",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013322/black_hole_safety_brochure_trifold_final.pdf"
+    }
+  }
+]
